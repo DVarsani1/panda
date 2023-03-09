@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8172956856",
+    "project_id": "fir-panda-a687d",
+    "storage_bucket": "fir-panda-a687d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8172956856:android:1a5b16ec209504dea1d84d",
+        "android_client_info": {
+          "package_name": "com.example.panda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8172956856-ae7n3fnmqk34dfud3pud8dpk9q5iocjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEAK1Q5qfZZLVPu-1TRaP0KIRLCF73Jus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8172956856-ae7n3fnmqk34dfud3pud8dpk9q5iocjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
